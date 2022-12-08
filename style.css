@@ -1,0 +1,14 @@
+
+body {
+    color:rgb(29, 4, 4);
+    font-family: sans-serif;
+}
+
+h2 {
+    text-transform: uppercase;
+    color:rgb(75, 61, 165)
+}
+
+h3 {
+    font-style: italic;
+}
